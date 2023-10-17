@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Arm64",
+        "toolchainFile": "../toolchains/arm.cmake",
+        "compilers": {
+            "C": "aarch64-none-linux-gnu-gcc",
+            "CXX": "aarch64-none-linux-gnu-g++"
+        }
+    }
+]
